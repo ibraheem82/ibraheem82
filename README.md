@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Django
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Mail] (ibraheemomikunle82@gmail.com)
-- 😄 Pronouns: ... He/Him
+- 😄 Skills ... [HTML, CSS, JAVASCRIPT, NODE, EXPRESS, DJANGO, PYTHON, FIREBASE, MONGODB, API's]
 - ⚡ Fun fact: ... Love Learning
